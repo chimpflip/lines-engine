@@ -85,7 +85,7 @@ module Lines
                 </ul>
                 <ul>
                   <li>#{link_to(t('lines.buttons.formating_help').html_safe, "#", class: "btn-cheatsheet")}</li>
-                  <li>#{link_to(t('lines.buttons.about').html_safe, "http://lines.opoloo.com")}</li>
+                  <li>#{link_to(t('lines.buttons.about').html_safe, "https://chimpflip.com")}</li>
                 </ul>
               </div>
             </div>".html_safe

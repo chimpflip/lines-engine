@@ -1,19 +1,28 @@
 # Changelog
 
+## 1.3.0
+
+- Update latest dependencies
+- Added support for generating Admin assets
+- Custom default Admin blog navigation
+
 ## 1.2.3
+
 - fix No such middleware to insert before: ActionDispatch::Static (Thanks to @scottbarrow)
 
 ##  1.2.2
+
 - Fix JqueryUI datepicker (Thanks to @edgarlepe)
 
 ## 1.2.1.1
+
 - Fix activerecord.errors.models translations being truncated by gem.
 
 ## 1.2.1
 
 - Fixed compatibility with Rails 5
 
-## 1.2 
+## 1.2
 
 - Added support for Rails 5
 
